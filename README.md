@@ -11,7 +11,7 @@ I have 1-2 years of experience writing web applications using React and Vue, usi
 * 🚀  I'm currently working on [E-Business Card](http://https://cgs-center.scg.com/E-Card/frontend/my-card)
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on E-Commerce, Game Developer, AI analysis
-* ⚡  I would like to learn GoLang, but I am not busy.
+* ⚡  I would like to learn GoLang, but I am busy.
 
 <a href="https://www.x.com/kaiyo3t" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/kaiyo3t?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"
